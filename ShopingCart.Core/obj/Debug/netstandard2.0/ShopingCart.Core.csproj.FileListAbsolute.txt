@@ -8,8 +8,9 @@ D:\all Projects\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.pdb
 D:\all Projects\Shopping\ShopingCart.Core\bin\Debug\netstandard2.0\ShopingCart.Core.deps.json
 D:\all Projects\Shopping\ShopingCart.Core\bin\Debug\netstandard2.0\ShopingCart.Core.dll
 D:\all Projects\Shopping\ShopingCart.Core\bin\Debug\netstandard2.0\ShopingCart.Core.pdb
+D:\all Projects\Shopping\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.csprojAssemblyReference.cache
+D:\all Projects\Shopping\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.csproj.CoreCompileInputs.cache
 D:\all Projects\Shopping\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.AssemblyInfoInputs.cache
 D:\all Projects\Shopping\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.AssemblyInfo.cs
 D:\all Projects\Shopping\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.dll
 D:\all Projects\Shopping\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.pdb
-D:\all Projects\Shopping\ShopingCart.Core\obj\Debug\netstandard2.0\ShopingCart.Core.csprojAssemblyReference.cache

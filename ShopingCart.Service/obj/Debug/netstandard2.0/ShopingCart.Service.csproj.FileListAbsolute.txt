@@ -19,6 +19,7 @@ D:\all Projects\Shopping\ShopingCart.Service\bin\Debug\netstandard2.0\ShpiingCar
 D:\all Projects\Shopping\ShopingCart.Service\bin\Debug\netstandard2.0\ShpiingCart.Data.pdb
 D:\all Projects\Shopping\ShopingCart.Service\bin\Debug\netstandard2.0\ShopingCart.Core.pdb
 D:\all Projects\Shopping\ShopingCart.Service\obj\Debug\netstandard2.0\ShopingCart.Service.csprojAssemblyReference.cache
+D:\all Projects\Shopping\ShopingCart.Service\obj\Debug\netstandard2.0\ShopingCart.Service.csproj.CoreCompileInputs.cache
 D:\all Projects\Shopping\ShopingCart.Service\obj\Debug\netstandard2.0\ShopingCart.Service.AssemblyInfoInputs.cache
 D:\all Projects\Shopping\ShopingCart.Service\obj\Debug\netstandard2.0\ShopingCart.Service.AssemblyInfo.cs
 D:\all Projects\Shopping\ShopingCart.Service\obj\Debug\netstandard2.0\ShopingCart.Service.csproj.CopyComplete
